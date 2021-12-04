@@ -21,7 +21,7 @@ int main() {
 
     while (true) {
 
-        cout << "Please enter a CC number to validate: ";
+        cout << "\nPlease enter a CC number to validate: ";
         cin >> ccNumber;
 
         if (ccNumber == "exit")
